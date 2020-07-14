@@ -19,5 +19,5 @@ I'm currently working with JavaScript using Node.js, React, Vue.js and React Nat
 
 
 ## 📫 Contact Me
-- LinkedIn - [Gabriel Meireles](https://in.linkedin.com/in/gauravc12)
+- LinkedIn - [Gabriel Meireles](https://in.linkedin.com/in/gmeireles)
 - Medium - [devmeireles](https://medium.com/dev-meireles)
