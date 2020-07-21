@@ -8,7 +8,7 @@ I'm currently working with JavaScript using Node.js, React, Vue.js and React Nat
 
 
 ## 📦 Knowledge
-- Backend development using **PHP** (Laravel, Zend, CodeIgniter, Lumen, Symfony and Yii2) and **JavaScript** (Node and Express)
+- Backend development using **PHP** (Laravel, Zend, CodeIgniter, Lumen, Symfony and Yii2) and **JavaScript** (Node, Express, Jest)
 - Front-end development using **Vue.Js** (Vuetify, Vuex and vue-router) and **React**
 - Mobile development using **React Native**
 
