@@ -13,9 +13,10 @@ I'm currently working with JavaScript using Node.js, React, Vue.js and React Nat
 - Mobile development using **React Native**
 
 ## 👨🏽‍💻 Currently Working On
-- A Soccer data crawler
-- An Soccer data API
-- A web data explorer
+- A Golang REST API
+
+## 🌱 Learning
+- [Golang](https://golang.org/)
 
 
 ## 📫 Contact Me
