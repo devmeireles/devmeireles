@@ -15,3 +15,6 @@ I started my career developing with PHP in which I work and worked with Laravel,
 ## 📫 Contact Me
 - LinkedIn - [Gabriel Meireles](https://in.linkedin.com/in/gmeireles)
 - Medium - [devmeireles](https://medium.com/dev-meireles)
+
+
+this isn't Instagram, don't act like a fool
