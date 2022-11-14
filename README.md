@@ -2,4 +2,4 @@
 
 <div style="padding:50px"></div>
 
-<img src="https://i.kym-cdn.com/photos/images/original/001/059/850/546.gif" alt="lorem" />
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/devmeireles/my-stack)
