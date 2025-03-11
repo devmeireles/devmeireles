@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmeireles&layout=compact&hide=css,blade,html&langs_count=5&theme=dark)
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=devmeireles&layout=compact&hide=css,blade,html&langs_count=10&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=devmeireles&layout=compact&hide=css,blade,html,dockerfile,shell,scss,makefile&langs_count=9&theme=dark))
 
 <div style="padding:50px"></div>
 
